@@ -1,1 +1,2 @@
 # Team-673
+HealthONE is a modern Electronic Medical Records System that will help medical professional have easy and quick access to digital patient charts and leverage insights from generated data to support decision making that improve patient care. Machine-Learning tools will be utilized to develop decision support model that will reduce the turnaround time in diagnosis and aid clinical research.
